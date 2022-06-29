@@ -1,0 +1,8 @@
+[package]
+name = "dupe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+path-slash = "0.1"
+walkdir = "2"
